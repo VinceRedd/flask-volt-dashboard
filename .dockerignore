@@ -1,5 +1,16 @@
-.git
 __pycache__
 *.pyc
 *.pyo
 *.pyd
+*.db
+*.sqlite
+*.log
+*.log.*
+instance/
+*.env
+*.flaskenv
+*.git
+*.vscode
+*.idea
+*.md
+package.json
